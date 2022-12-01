@@ -1,1 +1,1 @@
-# LA-Template
+# LA-Matterhorn (placeholder)
