@@ -33,8 +33,8 @@ Complete any of the following header rows that contribute to the definition of t
 | Branch Name | |
 | Author GitHub Username | |
 | Branch Type | (Academic or Working) |
-| Inclusion      |   (i.e.: Finance, Marketing, PMO)                     |
-| Organization Size  | (ie. Startup, Medium, Enterprise, all)  |
+| Organization Scope      |   (e.g. IT, Finance, Marketing, PMO)                     |
+| Organization Size  | (e.g. Startup, Medium, Enterprise, all)  |
 | Scrum Discipline | (Fully adherent, moderate, flexible, none) |
 | Methods  |  ( list any practices that the branch uses that play a contributing role to the definition or function of this new branch) |
 | Tools | (list any tools by general type or specific brand if they play a contributing role in the definition or function of this new branch) |
@@ -81,13 +81,13 @@ Complete any of the following header rows that contribute to the definition of t
 #### 4) Scrum Architecture
 | Considerations & Question | Comment |
 |-------|---------|
-|What methods, if any, will be used to scale the organization? | (SAFe, LeSS, PMO,..)| 
+|What methods, if any, will be used to scale the organization? | (e.g. SAFe, LeSS, PMO,..)| 
 |Will scrum teams be working with PM's and if so, how? | | 
 |Will PM's and scrum teams use common work types in tracking and communication? | | 
 |Will PM's work with scrum master and if so, what tool configurations might aid in that alignment? | | 
 |Who owns Jira system and product administration? | | 
 |What issue types will scrum teams be using | | 
-|What PMO project mapping tiers will be used? | (Portfolio, Program,..) |
+|What PMO project mapping tiers will be used? | (e.g. Portfolio, Program,..) |
 |Will all teams be using a common sprint start and stop and if so, how wide is the window? | | 
 |Will your scrum teams us project-based board, skill set board, domain boards, SME based boards? | | 
 |Will SMs be working/trained as project board curators? If not, what does a typical user story origination and life cycle look like? | |
