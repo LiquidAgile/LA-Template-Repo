@@ -25,7 +25,7 @@ This section may contain a summary of the author's ideas, application, or use-ca
 
 ---
 
-#### Template Header
+### Template Header
 Complete any of the following header rows that contribute to the definition of this new LA branch. 
 
 | Key Attributes | Comment (suggestions)|
@@ -41,14 +41,14 @@ Complete any of the following header rows that contribute to the definition of t
 | Author Notes |  (any additional thoughts or comments that add understanding, perspective, or context to your branch)  |
 
 ---
-#### Template Body
+### Template Body
 
 
 
 >Instructions: Complete any of the following LA template sections below that contribute to the definition and implementation of this working branch. Each section has a set of sample questions that may be used or expanded as needed.  
 
 
-##### 1) Leadership Structures
+#### 1) Leadership Structures
 
 | Considerations & Question | Comment |
 |-------|---------|
@@ -61,7 +61,7 @@ Complete any of the following header rows that contribute to the definition of t
 
 
 
-##### 2) Change Management
+#### 2) Change Management
 | Considerations & Question | Comment |
 |-------|---------|
 |Will there be a change management tool for use when a scrum process is changed?  | | 
@@ -70,7 +70,7 @@ Complete any of the following header rows that contribute to the definition of t
 |Will safety trials be used to first validate cross-team scrum configuration changes before implementation? | | 
 
 
-##### 3) Documentation
+#### 3) Documentation
 | Considerations & Question | Comment |
 |-------|---------|
 | What activity, if any, will scrum masters and or scrum teams have with documentation? | |
@@ -78,7 +78,7 @@ Complete any of the following header rows that contribute to the definition of t
 | Will scrum masters be responsible for any end of sprint documentation or records?| |
 | | | 
 
-##### 4) Scrum Architecture
+#### 4) Scrum Architecture
 | Considerations & Question | Comment |
 |-------|---------|
 |What methods, if any, will be used to scale the organization? | (SAFe, LeSS, PMO,..)| 
@@ -94,7 +94,7 @@ Complete any of the following header rows that contribute to the definition of t
 |Will organization scrum boards be configured for through-lines? | |  
 
 
-##### 5) Reporting
+#### 5) Reporting
 | Considerations & Question | Comment |
 |-------|---------|
 |Will sprint reporting be used? If so, in what ways. | | 
@@ -106,7 +106,7 @@ Complete any of the following header rows that contribute to the definition of t
 
 
 
-##### 6) Forecasting
+#### 6) Forecasting
 | Considerations & Question | Comment |
 |-------|---------|
 |Does this branch use forecasting, projections, neither, both, other? | |
@@ -121,7 +121,7 @@ Complete any of the following header rows that contribute to the definition of t
 
 
 
-##### 7) Cost Accounting
+#### 7) Cost Accounting
 | Considerations & Question | Comment |
 |-------|---------|
 |Is this branch concerned with scrum or SDLC cost accounting? | |
