@@ -52,12 +52,12 @@ Complete any of the following header rows that contribute to the definition of t
 
 | Considerations & Question | Comment |
 |-------|---------|
-| Will you use a scrum-as-a-service model with multiple support options for your projects and teams? | | 
+| Will you use a scrum-as-a-service model? Will all scrum master be considered full-time dedicated to their teams or will their be more than one commitment level to supported teams and projects? If so, will such tiers be based on project complexity, time, resources, other? | | 
 | Will the scrum master reporting vertical be the same as the scrum teams reporting vertical?   |  |
 |What relationship will the scrum team have with the PMO? | | 
 |Will devops have scrum masters? | | 
 |Will you have a scrum master RACI grid  | |
-| | | 
+|Will one or more of your scrum master positions also fill a Jira system admin role or will Jira admin role belong to devops? | | 
 
 
 

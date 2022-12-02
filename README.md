@@ -1,6 +1,6 @@
 ### Read Me Doc
 
-> _Liquid Agile is a managerial template for IT and PMO Directors engaged in enterprise scrum. It is based on the idea that different organizations, leaders, and teams, have ever-evolving needs, and approaches to agile scrum. This space welcomes your ideas, your experiments, your kind support of your peers while steering your own journey. This repo has a standing invitation open to all agile scrum thought leaders to share their leadership approach to agile scrum. Next step, have your branch added to the LA repository__
+> _Liquid Agile is a managerial template for IT and PMO Directors engaged in enterprise scrum. It is based on the idea that different organizations, leaders, and teams, have ever-evolving needs, and approaches to agile scrum. This space welcomes your ideas, your experiments, your kind support of your peers while steering your own journey. This repo has a standing invitation open to all agile scrum thought leaders to share their leadership approach to agile scrum. Next step, have your branch added to the LA repository._
 
 #### Context
 - Agile is 'an ability...'
