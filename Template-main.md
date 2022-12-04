@@ -26,7 +26,7 @@ This section may contain a summary of the author's ideas, application, or use-ca
 ---
 
 ### Template Header
-Complete any of the following header rows that contribute to the definition of this new LA branch. 
+Complete any of the following header rows that contribute to the definition of this new LA branch. The sample questions listed below meet a common criteria in that their subject has a potential relationship to be considered or an impact on the practice and or management of agile scrum.  
 
 | Key Attributes | Comment (suggestions)|
 |-------|---------|
@@ -55,6 +55,7 @@ Complete any of the following header rows that contribute to the definition of t
 | Will you use a scrum-as-a-service model? Will all scrum master be considered full-time dedicated to their teams or will their be more than one commitment level to supported teams and projects? If so, will such tiers be based on project complexity, time, resources, other? | | 
 | Will the scrum master reporting vertical be the same as the scrum teams reporting vertical?   |  |
 |What relationship will the scrum team have with the PMO? | | 
+|Will this method have a greater bias of the scrum master working with the project manager, product manager, or both equally?
 |Will devops have scrum masters? | | 
 |Will you have a scrum master RACI grid  | |
 |Will one or more of your scrum master positions also fill a Jira system admin role or will Jira admin role belong to devops? | | 
@@ -92,6 +93,11 @@ Complete any of the following header rows that contribute to the definition of t
 |Will your scrum teams us project-based board, skill set board, domain boards, SME based boards? | | 
 |Will SMs be working/trained as project board curators? If not, what does a typical user story origination and life cycle look like? | |
 |Will organization scrum boards be configured for through-lines? | |  
+|Will you scrum master or scrum architect be adjust the issue tracking tool to reflect the version control and or branching strategy? Will continuous integration or continous delivery be a consideration in scrum architecture? Will your team use a hotfix branch, feature branch,others? | | 
+| Will your teams use releases (versus CI/CD)? | | 
+| Will there be controls or governance that place requirements on when scrum architecture can be changed? | | 
+
+
 
 
 #### 5) Reporting

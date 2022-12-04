@@ -7,7 +7,8 @@
 - Scrum is 'a framework...' 
 - LA is 'a template, for all of the above'
 
-When a director, leader, academic, or scrum practitioner completes the LA template and publishes their own branch, they become an author of an agile branch. If that branch is published here on GitHub as an LA branch then that branch becomes available for for peer review, available to the greater community to use. The Github issues link is one method of opening discussion with a branch author. The result is that a publish branch potentially becomes vetted, endorsed, criticed (good and the bad) to become better. All of which serves continuous improvement of a complex leadership responsibility that we all participate in.  
+When a director, leader, academic, or scrum practitioner completes the LA template and publishes their branch here on GitHub that branch becomes available for peer review, discussion, and for the greater community to use. The inverse is also true in that you may benefit from those authors and their branches by creating your own sub-branch that accounts for your own specific needs. Although, not a requirement, it is courteous that working sub-branches be published under the branch that influenced them. 
+The Github Issues link is one method of opening discussion with a branch or sub-branch author. The result is that a publish branches potentially becomes vetted, endorsed, critiqued (good and the bad) in ways that add to their potential resiliance and value. 
 
 #### Summary of (LA)
 Liquid Agile (LA) is an agile leadership template maintained on this GitHub repo and site page. LA is not a recommendation or instruction on how to practice enterprise scrum, but rather a repository of individual approaches (branches) to integrating scrum with IT, PMO, and other domains of corporate partnership.  
