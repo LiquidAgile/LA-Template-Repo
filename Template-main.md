@@ -15,7 +15,7 @@ Template-main.md  |  Branch: Master  |  Doc Version 0.7  |  1 Dec 2022
 
 ---
 
-This section may contain a summary of the author's ideas, application, or use-cases for this new branch. 
+In this section the author may share ideas, application, or use-cases for this new branch. 
  
 |Author's Opening Description|
 |----|
@@ -28,7 +28,7 @@ This section may contain a summary of the author's ideas, application, or use-ca
 ### Template Header
 Complete any of the following header rows that contribute to the definition of this new LA branch. The sample questions listed below meet a common criteria in that their subject has a potential relationship to be considered or an impact on the practice and or management of agile scrum.  
 
-| Key Attributes | Comment (suggestions)|
+| Key Attributes | Comment (completed by author, where applicable)|
 |-------|---------|
 | Branch Name | |
 | Author GitHub Username | |
