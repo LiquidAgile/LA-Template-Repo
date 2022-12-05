@@ -39,7 +39,7 @@ Complete any of the following header rows that contribute to the definition of t
 | Methods  |  ( list any practices that the branch uses that play a contributing role to the definition or function of this new branch) |
 | Tools | (list any tools by general type or specific brand if they play a contributing role in the definition or function of this new branch) |
 | Author Notes |  (any additional thoughts or comments that add understanding, perspective, or context to your branch)  |
-
+&nbsp; &nbsp;
 ---
 &nbsp; &nbsp;
 
