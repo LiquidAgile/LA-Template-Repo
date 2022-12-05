@@ -41,6 +41,8 @@ Complete any of the following header rows that contribute to the definition of t
 | Author Notes |  (any additional thoughts or comments that add understanding, perspective, or context to your branch)  |
 
 ---
+&nbsp; &nbsp;
+
 ### Template Body
 
 
