@@ -3,6 +3,7 @@ Template-main.md  |  Branch: Master  |  Doc Version 0.7  |  1 Dec 2022
 ```
 
 ## Liquid Agile Template Chapters
+Each of these listed chapters comprise the LA template.  
 
 >1. Leadership Structures
 >2. Change Management
@@ -13,25 +14,24 @@ Template-main.md  |  Branch: Master  |  Doc Version 0.7  |  1 Dec 2022
 >7. Cost Accounting
 
 
----
 
-In this section the author may share ideas, application, or use-cases for this new branch. 
+In this block the author may share ideas, application, or use-cases for this new branch. 
  
 |Author's Opening Description|
 |----|
 |_Enter details here_| 
 
 
-
+&nbsp;&nbsp;
 ---
 
 ### Template Header
-Complete any of the following header rows that contribute to the definition of this new LA branch. The sample questions listed below meet a common criteria in that their subject has a potential relationship to be considered or an impact on the practice and or management of agile scrum.  
+Complete any of the following header rows that contribute to the definition of this new LA branch.  
 
 | Key Attributes | Comment (completed by author, where applicable)|
 |-------|---------|
-| Branch Name | |
-| Author GitHub Username | |
+| Branch Name | (enter the repo name that this new branch will be saved as)|
+| Author's GitHub Username | |
 | Branch Type | (Academic or Working) |
 | Organization Scope      |   (e.g. IT, Finance, Marketing, PMO)                     |
 | Organization Size  | (e.g. Startup, Medium, Enterprise, all)  |
@@ -39,15 +39,16 @@ Complete any of the following header rows that contribute to the definition of t
 | Methods  |  ( list any practices that the branch uses that play a contributing role to the definition or function of this new branch) |
 | Tools | (list any tools by general type or specific brand if they play a contributing role in the definition or function of this new branch) |
 | Author Notes |  (any additional thoughts or comments that add understanding, perspective, or context to your branch)  |
+
 &nbsp; &nbsp;
----
+
 &nbsp; &nbsp;
 
 ### Template Body
 
 
 
->Instructions: Complete any of the following LA template sections below that contribute to the definition and implementation of this working branch. Each section has a set of sample questions that may be used or expanded as needed.  
+>Instructions: Complete any of the following LA template sections below that contribute to the understanding, definition and implementation of your new working branch. Each section has a set of questions that may be used or expanded as needed. The sample questions listed below meet a common criteria in that they have a potential relationship to be considered or an impact on the practice of agile scrum.   
 
 
 #### 1) Leadership Structures
