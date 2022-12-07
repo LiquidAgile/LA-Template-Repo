@@ -51,7 +51,9 @@ Complete any of the following header rows that contribute to the definition of t
 
 
 
->Instructions: Complete any of the following LA template sections below that contribute to the understanding, definition and implementation of your new working branch. Each section has a set of questions that may be used or expanded as needed. The sample questions listed below meet a common criteria in that they have a potential relationship to be considered or an impact on the practice of agile scrum for at least some organizations.   
+>Instructions
+Complete any of the following LA template sections below that contribute to the understanding, definition, and implementation of your new working branch. Each section has a set of questions that may be used, removed, or expanded as needed. The sample questions listed below meet a common criteria in that they have a potential relationship to at least some authors use of agile scru m. 
+   
 
 
 #### 1) Leadership Structures
