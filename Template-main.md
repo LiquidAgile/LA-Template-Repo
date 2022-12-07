@@ -33,12 +33,15 @@ Complete any of the following header rows that contribute to the definition of t
 | Branch Name | (enter the repo name that this new branch will be saved as)|
 | Author's GitHub Username | |
 | Branch Type | (Academic or Working) |
-| Organization Scope      |   (e.g. IT, Finance, Marketing, PMO)                     |
-| Organization Size  | (e.g. Startup, Medium, Enterprise, all)  |
-| Scrum Discipline | (Fully adherent, moderate, flexible, none) |
-| Methods  |  ( list any practices that the branch uses that play a contributing role to the definition or function of this new branch) |
-| Tools | (list any tools by general type or specific brand if they play a contributing role in the definition or function of this new branch) |
-| Author Notes |  (any additional thoughts or comments that add understanding, perspective, or context to your branch)  |
+|Underlying Methods Assumed | (Agile, Scrum, SAFe, LeSS, FAST, Kanban, Extreme, Lean, none)  | 
+| Scope of Partnership/support (business units)     |   (e.g. IT, Finance, Marketing, PMO)                     |
+| Target Organization Size  | (e.g. Startup, Medium, Enterprise, all)  |
+| Methods  |  ( list any particular scrum events, roles, or practices that play a defining role in how this model works) |
+| Tools | (List any tools by general type or specific brand that play a contributing role in how this model works.) |
+| Author Notes |  (any additional thoughts or comments that add understanding, perspective, or context to the use or intent of this working branch)  |
+|Do any Contractors or Consultants Support this Method? | (Yes/No and or comment) |
+|Authors Prefered Donation Recipient |  (must be a 501c3 or equivalent and meet board guidelines)|  
+
 
 &nbsp; &nbsp;
 
