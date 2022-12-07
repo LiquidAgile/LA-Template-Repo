@@ -1,9 +1,12 @@
 ```
-Template-main.md  |  Branch: Master  |  Doc Version 0.7  |  1 Dec 2022
+Template-main.md  |  Branch: Master  |  Doc Version 0.72 |  1 Dec 2022
 ```
+_Instructions: As a template user and new branch author, review the gray boxe areas and italic font segments for editing or deletion from your published branch. Use of the header and seven chapters of the body is encouraged so that some degree of consistency in the user review experience of all LA branches_
+
+---
 
 ## Liquid Agile Template Chapters
-Each of these listed chapters comprise the LA template.  
+There are currently seven chapters that comprise the LA template.  
 
 >1. Leadership Structures
 >2. Change Management
@@ -14,45 +17,47 @@ Each of these listed chapters comprise the LA template.
 >7. Cost Accounting
 
 
-
-In this block the author may share ideas, application, or use-cases for this new branch. 
+&nbsp;
  
-|Author's Opening Description|
+|Opening Description|
 |----|
-|_Enter details here_| 
+|_You new branch name_| 
+| _Add description of the branch here_| 
 
 
 &nbsp;&nbsp;
 ---
 
-### Template Header
-Complete any of the following header rows that contribute to the definition of this new LA branch.  
+### _Template_ Header 
+######<replace the word 'template' with your branch name>
+_Complete any of the following header rows that contribute to the definition of this new LA branch._  
 
 | Key Attributes | Comment (completed by author, where applicable)|
 |-------|---------|
-| Branch Name | (enter the repo name that this new branch will be saved as)|
+| Branch Name |_Enter the repo name that this new branch will be saved as_|
 | Author's GitHub Username | |
-| Branch Type | (Academic or Working) |
-|Underlying Methods Assumed | (Agile, Scrum, SAFe, LeSS, FAST, Kanban, Extreme, Lean, none)  | 
-| Scope of Partnership/support (business units)     |   (e.g. IT, Finance, Marketing, PMO)                     |
-| Target Organization Size  | (e.g. Startup, Medium, Enterprise, all)  |
-| Methods  |  ( list any particular scrum events, roles, or practices that play a defining role in how this model works) |
-| Tools | (List any tools by general type or specific brand that play a contributing role in how this model works.) |
-| Author Notes |  (any additional thoughts or comments that add understanding, perspective, or context to the use or intent of this working branch)  |
-|Do any Contractors or Consultants Support this Method? | (Yes/No and or comment) |
-|Authors Prefered Donation Recipient |  (must be a 501c3 or equivalent and meet board guidelines)|  
+| Branch Type | _Academic or Working_ |
+|Underlying Methods Assumed | _Agile, Scrum, SAFe, LeSS, FAST, Kanban, Extreme, Lean, none_  | 
+| Scope of Partnership/support (business units that benefit from this branch method)     |   _e.g. IT, Finance, Marketing, PMO_ |                    |
+| Target Organization Size  | _e.g. Startup, Medium, Enterprise, all_  |
+| Methods  |  _List any particular scrum events, roles, or practices that play a defining role in how this model works_ |
+| Tools | _List any tools by general type or specific brand that play a contributing role in how this model works._ |
+| Author Notes |  _Any additional thoughts or comments that add understanding, perspective, or context to the use or intent of this working branch_ |
+|Do any Contractors or Consultants Support this Method? | _Yes/No and or comment_ |
+|Authors Prefered Donation Recipient |  _Must be a 501c3 or equivalent and meet board guidelines_|  
 
 
 &nbsp; &nbsp;
 
 &nbsp; &nbsp;
 
-### Template Body
+### _Template_ Body
+######\<replace the word 'template' with your branch name>
 
 
 
->Instructions
-Complete any of the following LA template sections below that contribute to the understanding, definition, and implementation of your new working branch. Each section has a set of questions that may be used, removed, or expanded as needed. The sample questions listed below meet a common criteria in that they have a potential relationship to at least some authors use of agile scru m. 
+>_Instructions
+Complete any of the following LA template chapter sections that contribute to the understanding, definition, and or implementation of your new working branch. Each section has a set of questions that may be used, removed, or expanded as needed. The sample questions listed below meet a common criteria in that they have been identified as questions organizations have or have found solutions to. Use of the table format and publishing any questions is the authors choice._
    
 
 
